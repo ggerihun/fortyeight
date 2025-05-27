@@ -1,8 +1,5 @@
 # The FortyEight RP2040-Zero – KMK Edition
 
-![Finished Build](img/finished.jpg)
-
----
 
 ## Default Layout
 
