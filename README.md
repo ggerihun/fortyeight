@@ -1,4 +1,4 @@
-# The FortyEight
+# The FortyEight rp2040zero KMK edition
 
 ![](img/finished.jpg)
 
